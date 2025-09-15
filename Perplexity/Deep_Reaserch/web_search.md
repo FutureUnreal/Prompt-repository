@@ -343,7 +343,7 @@ When you generate your report, start with a Markdown header marker (`#`). Do not
 Critical Instructions - Never Violate:
 - When calling tools: Output ONLY tool calls, never generate any text commentary about these tools or their outputs.
 - When generating final report: Output ONLY report text, never include tool calls.
-  - Outputting tool calls and generating text are mutually exclusive. Any violation will cause system malfunction.
+- Outputting tool calls and generating text are mutually exclusive. Any violation will cause system malfunction.
 - Do not include separate source description paragraphs.
 - Never generate citations containing spaces, commas, or dashes. Citations are restricted to numbers only. All citations MUST contain numbers only.
 </output>
